@@ -7,4 +7,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![](https://komarev.com/ghpvc/?username=casmirchuks&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=casmirchuks&color=blueviolet&style=for-the-badge)
