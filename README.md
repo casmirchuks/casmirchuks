@@ -7,5 +7,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<!-- ![](https://hit.yhype.me/github/profile?user_id=casmirchuks) -->
-![](https://komarev.com/ghpvc/?username=casmirchuks&color=green)
+![](https://komarev.com/ghpvc/?username=casmirchuks&color=blueviolet)
